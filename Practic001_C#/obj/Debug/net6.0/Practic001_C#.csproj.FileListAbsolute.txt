@@ -1,0 +1,16 @@
+C:\Users\днс\OneDrive\Рабочий стол\Git\Задачи C#\Practic001_C#\obj\Debug\net6.0\Practic001_C#.GlobalUsings.g.cs
+C:\Users\днс\OneDrive\Рабочий стол\Git\Задачи C#\Practic001_C#\obj\Debug\net6.0\Practic001_C#.csproj.AssemblyReference.cache
+C:\Users\днс\OneDrive\Рабочий стол\Git\Задачи C#\Practic001_C#\obj\Debug\net6.0\Practic001_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\днс\OneDrive\Рабочий стол\Git\Задачи C#\Practic001_C#\obj\Debug\net6.0\Practic001_C#.AssemblyInfoInputs.cache
+C:\Users\днс\OneDrive\Рабочий стол\Git\Задачи C#\Practic001_C#\obj\Debug\net6.0\Practic001_C#.AssemblyInfo.cs
+C:\Users\днс\OneDrive\Рабочий стол\Git\Задачи C#\Practic001_C#\obj\Debug\net6.0\Practic001_C#.csproj.CoreCompileInputs.cache
+C:\Users\днс\OneDrive\Рабочий стол\Git\Задачи C#\Practic001_C#\bin\Debug\net6.0\Practic001_C#.exe
+C:\Users\днс\OneDrive\Рабочий стол\Git\Задачи C#\Practic001_C#\bin\Debug\net6.0\Practic001_C#.deps.json
+C:\Users\днс\OneDrive\Рабочий стол\Git\Задачи C#\Practic001_C#\bin\Debug\net6.0\Practic001_C#.runtimeconfig.json
+C:\Users\днс\OneDrive\Рабочий стол\Git\Задачи C#\Practic001_C#\bin\Debug\net6.0\Practic001_C#.dll
+C:\Users\днс\OneDrive\Рабочий стол\Git\Задачи C#\Practic001_C#\bin\Debug\net6.0\ref\Practic001_C#.dll
+C:\Users\днс\OneDrive\Рабочий стол\Git\Задачи C#\Practic001_C#\bin\Debug\net6.0\Practic001_C#.pdb
+C:\Users\днс\OneDrive\Рабочий стол\Git\Задачи C#\Practic001_C#\obj\Debug\net6.0\Practic001_C#.dll
+C:\Users\днс\OneDrive\Рабочий стол\Git\Задачи C#\Practic001_C#\obj\Debug\net6.0\ref\Practic001_C#.dll
+C:\Users\днс\OneDrive\Рабочий стол\Git\Задачи C#\Practic001_C#\obj\Debug\net6.0\Practic001_C#.pdb
+C:\Users\днс\OneDrive\Рабочий стол\Git\Задачи C#\Practic001_C#\obj\Debug\net6.0\Practic001_C#.genruntimeconfig.cache
